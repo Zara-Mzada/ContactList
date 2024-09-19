@@ -1,0 +1,14 @@
+/Users/zara/RiderProjects/Contact/Contact/bin/Debug/net8.0/Contact
+/Users/zara/RiderProjects/Contact/Contact/bin/Debug/net8.0/Contact.deps.json
+/Users/zara/RiderProjects/Contact/Contact/bin/Debug/net8.0/Contact.runtimeconfig.json
+/Users/zara/RiderProjects/Contact/Contact/bin/Debug/net8.0/Contact.dll
+/Users/zara/RiderProjects/Contact/Contact/bin/Debug/net8.0/Contact.pdb
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/Contact.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/Contact.AssemblyInfoInputs.cache
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/Contact.AssemblyInfo.cs
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/Contact.csproj.CoreCompileInputs.cache
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/Contact.dll
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/refint/Contact.dll
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/Contact.pdb
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/Contact.genruntimeconfig.cache
+/Users/zara/RiderProjects/Contact/Contact/obj/Debug/net8.0/ref/Contact.dll
